@@ -1,8 +1,10 @@
 # Computer Graphics - Exercise 5 - WebGL Basketball Court
 
 Group members- 
-Yuval Dulzin
-Noa Shenhar
+
+1. Noa Shenhar
+
+2. Yuval Dulzin
 
 
 Bonuses Implemented - 
